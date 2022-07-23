@@ -54,7 +54,7 @@ header .menu {
 }
 
 .apresentacao{
-    height: 100vh;
+    height: 60vh;
     align-items: center;
     justify-content: space-between;
 }
@@ -269,7 +269,7 @@ footer .footer{
     }
 
     #quem-somos img{
-        min-width: 420px;
+        min-width: 320px;
         margin: auto;
     }
 
